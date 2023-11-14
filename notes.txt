@@ -1,0 +1,11 @@
+Additional files
+- Login Page dibuat
+- Terdapat validasi pada login yang mewajibkan user untuk sign up terlebih dahulu agar dapat melakukan login
+- Motion serta shape tween yang melebihi requirement
+- Jumlah button yang melebihi requirement
+- Desain yang unik dan elegant
+- Terdapat link ke luar pada button di main menu sehingga user dapat melihat dan membuka website sang author
+- Terdapat halaman onsale yang menjadi ‘highlight’ dari store page
+- Sound dapat di pause dan di play kembali dan juga sound tersebut tidak akan berhenti kecuali aplikasinya ditutup
+
+Asset yang ada di folder text serta logo BeCo merupakan hasil buatan sendiri
